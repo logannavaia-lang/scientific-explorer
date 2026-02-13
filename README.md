@@ -1,1 +1,1 @@
-# scientific-explainer
+# scientific-explorer
